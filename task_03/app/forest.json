@@ -1,0 +1,68 @@
+{
+  "items": {
+    "(4, 5)": {
+      "description": "Rock",
+      "graphic": "🪨 "
+    },
+    "(4, 6)": {
+      "description": "Firtree",
+      "graphic": "🌲"
+    },
+    "(8, 10)": {
+      "description": "Rock",
+      "graphic": "🪨 "
+    },
+    "(2, 5)": {
+      "position": {
+        "x": 2,
+        "y": 5
+      }
+    },
+    "(4, 8)": {
+      "description": "Rock",
+      "graphic": "🪨 "
+    },
+    "(10, 1)": {
+      "description": "Firtree",
+      "graphic": "🌲"
+    },
+    "(2, 10)": {
+      "description": "Firtree",
+      "graphic": "🌲"
+    },
+    "(8, 2)": {
+      "description": "Firtree",
+      "graphic": "🌲"
+    },
+    "(12, 8)": {
+      "position": {
+        "x": 12,
+        "y": 8
+      }
+    },
+    "(9, 6)": {
+      "description": "Firtree",
+      "graphic": "🌲"
+    }
+  },
+  "player": {
+    "position": {
+      "x": 2,
+      "y": 5
+    }
+  },
+  "hunter": {
+    "position": {
+      "x": 12,
+      "y": 8
+    }
+  },
+  "home": {
+    "position": {
+      "x": 10,
+      "y": 10
+    }
+  },
+  "status": "Player moved successfully!\nHunter is coming closer...\n",
+  "gameOver": false
+}
